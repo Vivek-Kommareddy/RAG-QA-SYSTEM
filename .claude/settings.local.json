@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/vivek/Downloads/rag-qa-system -type d -name __pycache__ -exec rm -rf {} +)",
+      "Bash(python -c \":*)",
+      "Bash(python3 -c \":*)",
+      "Bash(python3 -m pytest tests/test_chunker.py -v)",
+      "Bash(python3 -m pytest tests/test_retriever.py tests/test_chain.py -v)",
+      "Bash(python3 -m pytest tests/test_chunker.py tests/test_retriever.py tests/test_chain.py -v)",
+      "Bash(python3 -m pytest tests/test_api.py -v)",
+      "Bash(pip install:*)",
+      "Bash(python3 -m pytest --cov=src --cov-report=term-missing -v)",
+      "Bash(brew --version)",
+      "Bash(docker --version)",
+      "Bash(python3.11 --version)",
+      "Bash(brew list:*)",
+      "Bash(python3.11 -c \"import sqlite3; print\\(''sqlite3 version:'', sqlite3.sqlite_version\\)\")",
+      "Bash(.venv/bin/python -c \":*)",
+      "Bash(.venv/bin/python3 -c \":*)",
+      "Bash(python3.11 -c \"import sqlite3; print\\(sqlite3.sqlite_version\\)\")",
+      "Bash(.venv/bin/python --version)",
+      "Bash(.venv/bin/python -c \"import sqlite3; print\\(''sqlite3:'', sqlite3.sqlite_version\\)\")",
+      "Bash(.venv/bin/pip install:*)",
+      "Bash(grep -n \"pysqlite3\" /Users/vivek/Downloads/rag-qa-system/requirements*.txt)",
+      "Bash(.venv/bin/pip show:*)",
+      "Bash(.venv/bin/pip list:*)",
+      "Bash(ls /Users/vivek/Downloads/rag-qa-system/requirements*.txt)",
+      "Bash(python3.11 -m venv .venv)",
+      "Bash(python -m pytest tests/ -v)",
+      "Bash(python3 -m pytest tests/ -v)",
+      "Bash(python3 -m mypy src/)",
+      "Bash(python3 -m ruff check src/ tests/)",
+      "Bash(wc -l src/**/*.py tests/*.py)",
+      "Bash(.venv/bin/pytest --tb=short -q)",
+      "Bash(python3.11 -m venv /Users/vivek/Downloads/rag-qa-system/.venv)",
+      "Bash(/Users/vivek/Downloads/rag-qa-system/.venv/bin/pip install:*)"
+    ]
+  }
+}

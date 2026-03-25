@@ -1,0 +1,102 @@
+Frequently Asked Questions
+==========================
+
+This fictional FAQ document addresses common questions about a software as a
+service (SaaS) product. The questions and answers cover a range of topics
+including pricing, account management, security, features and troubleshooting.
+The goal of this document is to provide customers with quick answers to
+their most pressing inquiries. The content is deliberately verbose and
+repetitive to meet the length requirements for testing the RAG system.
+
+Q: **What is the purpose of this product?**
+A: Our product is designed to help businesses manage their workflows and
+communications in a unified platform. It offers task tracking, messaging,
+file sharing and analytics features. By centralising these functions, teams
+can reduce context switching and improve productivity.
+
+Q: **How do I sign up for an account?**
+A: You can sign up by visiting our website and clicking the "Sign Up" button.
+You'll need to provide your name, email address and a secure password. After
+submitting the form, you will receive a verification email. Follow the
+instructions in that email to activate your account.
+
+Q: **Is there a free trial available?**
+A: Yes, we offer a 14-day free trial with access to all features. No
+payment information is required to start the trial. At the end of the trial
+period you can choose a subscription plan or allow the trial to expire.
+
+Q: **What subscription plans are available?**
+A: We offer Basic, Pro and Enterprise plans. The Basic plan includes core
+features suitable for small teams. The Pro plan adds advanced analytics
+and integrations, while the Enterprise plan includes premium support and
+customisation options. Detailed pricing can be found on our website.
+
+Q: **How is my data secured?**
+A: Data security is a top priority. We employ encryption at rest and in
+transit, regular security audits and strict access controls. Our platform
+is compliant with industry standards such as GDPR and SOC 2. For more
+details, please refer to our security whitepaper.
+
+Q: **Can I integrate the product with other tools?**
+A: Yes, we offer integrations with popular tools such as Slack, Google
+Workspace, Microsoft 365 and many others. You can enable integrations
+through the settings page of your account. If you require a custom
+integration, our API documentation provides guidance.
+
+Q: **How do I reset my password?**
+A: If you've forgotten your password, click the "Forgot Password" link on the
+login page. Enter your email address and we will send a password reset
+link. Follow the instructions in the email to choose a new password.
+
+Q: **What support options are available?**
+A: We provide email support for all customers. Pro and Enterprise
+subscribers also have access to live chat support and a dedicated account
+manager. Our help centre includes documentation, tutorials and video
+guides to help you get the most out of the product.
+
+Q: **How do I cancel my subscription?**
+A: You can cancel your subscription at any time by navigating to the billing
+section of your account settings and selecting "Cancel Subscription". Your
+account will remain active until the end of the current billing cycle.
+
+Q: **Do you offer discounts for non-profits or educational institutions?**
+A: Yes, we offer special pricing for eligible non-profit organisations and
+educational institutions. Please contact our sales team for more
+information and to apply for discounted pricing.
+
+Q: **What happens to my data if I cancel?**
+A: After cancellation your data will be retained for 30 days in case you
+change your mind. After 30 days, your data will be permanently deleted
+from our systems. You can export your data at any time before deletion
+using the export feature in your account settings.
+
+Q: **How do I back up my data?**
+A: We automatically back up all customer data on a daily basis. However,
+you can also manually export your data in CSV or JSON format from the
+account settings page. Regular exports are recommended for your own
+records.
+
+Q: **What browsers are supported?**
+A: The product supports the latest versions of Chrome, Firefox, Safari and
+Edge. We recommend keeping your browser up to date for the best
+experience.
+
+Q: **Can I customise the product's appearance?**
+A: Yes, you can choose from several themes and upload your company logo to
+brand the interface. Advanced customisation options are available on the
+Enterprise plan.
+
+Q: **Is there a mobile app?**
+A: A mobile app is available for iOS and Android. You can download it from
+the App Store or Google Play. The app offers a subset of features
+optimised for mobile use.
+
+The remainder of this document elaborates on the questions above, provides
+additional tips, troubleshooting steps and hypothetical scenarios. The text
+is intentionally lengthy and repetitive to ensure that the file contains
+enough content for the purposes of indexing and retrieval. You will
+encounter restatements of the sign-up process, subscription plans, data
+security measures, integration options, password resets, support channels
+and cancellation procedures. This redundancy helps the RAG system learn the
+salient points of the FAQ and improves retrieval accuracy during
+evaluation.
